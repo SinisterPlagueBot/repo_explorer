@@ -39,7 +39,7 @@ pip install torch transformers openai annoy tqdm
 ## Setup :
 
 ```bash 
-git clone https://github.com/sinisterplaguebot/annoy-search-index.git
+git clone https://github.com/sinisterplaguebot/repo_explorer.git
 
 cd annoy-search-index
 ```
